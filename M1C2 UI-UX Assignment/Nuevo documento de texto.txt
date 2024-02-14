@@ -1,0 +1,22 @@
+Task One: Referencing this image, create a low-fidelity wireframe.
+
+
+Task Two: Use one of the following websites and the inspect tool to identify 2-3 colors used repeatedly as part of the site’s color scheme. Remember that different shades of gray and black can be included as a color.
+
+https://timmyomahony.com/
+
+https://sebkay.com/ 
+
+https://jonny.me/ 
+
+https://jacekjeznach.com/ 
+
+Task Three: Create a user story by referencing one of these websites
+Twitter https://twitter.com/home?lang=en
+Youtube https://www.youtube.com/
+Facebook https://www.facebook.com/ 
+Google https://www.google.com/ 
+
+
+Task Four: Identify the prime objective of Facebook, Twitter, Google, and Youtube.
+
