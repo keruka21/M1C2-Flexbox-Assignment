@@ -4,12 +4,22 @@ Task One: Referencing this image, create a low-fidelity wireframe.
 Task Two: Use one of the following websites and the inspect tool to identify 2-3 colors used repeatedly as part of the site’s color scheme. Remember that different shades of gray and black can be included as a color.
 
 https://timmyomahony.com/
+#757575
+#fff
+#616161
 
 https://sebkay.com/ 
+#333
+#4b6cc1
+#fff
 
 https://jonny.me/ 
+#e6edf3
+#0d1117
+#848d97
 
 https://jacekjeznach.com/ 
+La página no se cargaba.
 
 Task Three: Create a user story by referencing one of these websites
 Twitter https://twitter.com/home?lang=en
@@ -17,6 +27,11 @@ Youtube https://www.youtube.com/
 Facebook https://www.facebook.com/ 
 Google https://www.google.com/ 
 
+El usuario de twitter A viaja por trabajo y quiere poder crear alertas de las noticias más relevantes del lugar donde se encuentra en ese momento.
 
 Task Four: Identify the prime objective of Facebook, Twitter, Google, and Youtube.
+Facebook: Conectar a las personas para que puedan comunicarse.
+Twitter: Crear entradas de blog pequeñas fáciles de compartir.
+Google: Facilitar información de forma concisa y ordenada al usuario.
+Youtube: Crear y compartir videos en linea.
 
