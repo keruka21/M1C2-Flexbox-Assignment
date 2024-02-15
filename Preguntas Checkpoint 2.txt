@@ -1,7 +1,18 @@
+Cuatro valores que se pueden usar con la propiedad justify-content.
+space-between
+space-around
+space-evenly
+center
+
+
 ¿Cuál es un objetivo primordial?
+Que la web pueda cumplir su función y esté adaptada para ser usada por los usuarios de forma eficaz. 
 
 ¿Qué son los wireframes de baja fidelidad?
+Son un esquema de la esstructura básica de los elementos que van a componer una página web. Su finalidad es la de representar como se van a colocar los distintos elementos para poder darles después estilos.
 
 ¿Qué es Git?
+Es un programa que nos permite subir los archivos de un proyecto de código y sus diferentes versiones a un repositorio y tener registrados los cambios.
 
 ¿Qué es un sitemap?
+Es un mapa que describe como vamos a navegar por las páginas de nuestro sitio web. En él se representarán los componentes y eventos de la web y la relación entre ellos.
